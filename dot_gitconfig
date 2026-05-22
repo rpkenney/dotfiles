@@ -1,0 +1,7 @@
+[user]
+	email = robert.kenney128@gmail.com
+	name = Robert Kenney
+[credential]
+	helper = store
+[core]
+	editor = vi
